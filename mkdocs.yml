@@ -1,7 +1,7 @@
 site_name: TheHive Project Documentation
 
 # mkdocs.yml
-site_url: https://thehive-project.github.io/docs
+site_url: https://rowland007.github.io/TheHive-Project-docs/
 # theme:
 #   name: "material"
 theme:
@@ -46,8 +46,8 @@ extra:
       link: "https://www.strangebee.com"
     - icon: fontawesome/brands/wordpress
       link: "https://blog.strangebee.com"
-    - icon: fontawesome/brands/discord
-      link: "https://chat.thehive-project.org"
+#    - icon: fontawesome/brands/discord
+#      link: "https://chat.thehive-project.org"
 # repo_name: "StrrangeBee/docs"
 # repo_url: "https://github.com/strangebee.com/docs"
 markdown_extensions:
